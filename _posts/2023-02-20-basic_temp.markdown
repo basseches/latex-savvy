@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Basic template"
+permalink: /basic/
 ---
 
 If you're unfamiliar with $$\LaTeX$$, this is a good place to start.
+<br>
 
 <!--pdf-->
-<iframe src="/latex-savvy/assets/static/basic.pdf#toolbar=0" width="100%" height="400px">
+<iframe src="/latex-savvy/assets/static/templates/basic.pdf#toolbar=0" width="100%" height="400px">
 </iframe>
 
 <br>

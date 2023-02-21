@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting started"
-date:   2023-02-19 16:28:13 -0500
+permalink: /getting-started/
 ---
 
 The $$\TeX$$ programming language can do lots of cool things. It natively

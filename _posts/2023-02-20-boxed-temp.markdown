@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Boxed template"
+permalink: /boxed/
 ---
 
 <!--pdf-->
-<iframe src="/latex-savvy/assets/static/boxed.pdf#toolbar=0" width="100%" height="400px">
+<iframe src="/latex-savvy/assets/static/templates/boxed.pdf#toolbar=0" width="100%" height="400px">
 </iframe>
 
 <br>
