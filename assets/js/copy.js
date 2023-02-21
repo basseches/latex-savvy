@@ -22,7 +22,7 @@ codeBlocks.forEach(function(codeBlock) {
     });
 
     codeBlock.addEventListener('mouseover', function () {
-        copyButton.focus();
+        copyButton.focus({preventScroll:true});
     });
     codeBlock.addEventListener('mouseleave', function () {
         copyButton.blur();
