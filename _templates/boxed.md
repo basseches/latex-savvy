@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: template
 title:  "Boxed template"
-permalink: /boxed/
+permalink: /templates/boxed/
 ---
 
 <!--pdf-->

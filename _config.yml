@@ -14,9 +14,17 @@ plugins:
 
 defaults:
   - scope:
-      path: "assets/static"
+      path: "assets/static/images"
     values:
       image: true
+
+include:
+  - _pages
+  - _templates
+
+header_pages:
+  - _pages/about.md
+  - _pages/templates.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

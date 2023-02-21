@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: template
 title:  "Basic template"
-permalink: /basic/
+permalink: /templates/basic/
 ---
 
 If you're unfamiliar with $$\LaTeX$$, this is a good place to start.
