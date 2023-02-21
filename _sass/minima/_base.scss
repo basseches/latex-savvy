@@ -263,7 +263,7 @@ pre.highlight {
   .copy {
     color: #eef;
     border: none;
-    padding: 16px;
+    padding: 5px;
     font-size: 16px;
     position: absolute;
     right: 1.2rem;
@@ -274,12 +274,12 @@ pre.highlight {
 
     &:active,
     &:focus {
-      background: rgba(0, 0, 0, 0.7);
+      background: rgba(255, 255, 255, 0.7);
       opacity: 1;
       outline: none;
     }
     &:hover {
-      background: rgba(147, 147, 147, 0.7);
+      background: rgba(220, 220, 220, 0.7);
       opacity: 1;
     }
   }
