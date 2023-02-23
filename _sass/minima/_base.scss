@@ -294,7 +294,14 @@ pre.highlight {
 
 .tile
 {
-  width: 300px;
+  width: 365px;
+  padding: 1px;
+  background-color:rgb(236, 236, 236);
+}
+
+.tilehome
+{
+  width: 241px;
   padding: 1px;
   background-color:rgb(236, 236, 236);
 }
@@ -302,4 +309,9 @@ pre.highlight {
 .template_container
 {
   display: inline-block;
+}
+
+.padding
+{
+  padding: 10px;
 }

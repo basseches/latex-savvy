@@ -32,7 +32,7 @@ permalink: /templates/boxed/
 % BEGIN MDFRAMED SETTINGS -----------------------------------------------------
 \usepackage[framemethod=TikZ]{mdframed}
 
-\mdfdefinestyle{theo}{%
+\mdfdefinestyle{problem}{%
     frametitlebackgroundcolor = black!7,%
     frametitlerule=true,%
     roundcorner=5pt,%
@@ -45,7 +45,7 @@ permalink: /templates/boxed/
     innerbottommargin=\topskip,%
 }
 
-\mdtheorem[style=theo]{definition}{\textbf{%
+\mdtheorem[style=problem]{definition}{\textbf{%
 % This is the text that shows up in the grey part of the box:
     Problem%
 }}
