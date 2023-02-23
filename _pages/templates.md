@@ -8,6 +8,8 @@ Clicking on any of these images will bring you to a page with $$\LaTeX$$
 template code. Copy and paste the code into your favorite editor, and you're
 good to go!
 
+<div class="padding"></div>
+
 <div class="template_container">
 {% for image in site.static_files %}
     {% if image.path contains 'templates/preview' %}

@@ -5,7 +5,8 @@ permalink: /templates/basic/
 ---
 
 If you're unfamiliar with $$\LaTeX$$, this is a good place to start.
-<br>
+
+<div class="padding"></div>
 
 <!--pdf-->
 <iframe src="/latex-savvy/assets/static/templates/basic.pdf#toolbar=0" width="100%" height="400px">
@@ -15,6 +16,7 @@ If you're unfamiliar with $$\LaTeX$$, this is a good place to start.
 
 ### Code
 
+{% raw %}
 ```tex
 % A basic LaTeX template.
 % Lines beginning with '%' are comments -- anything after the '%' is ignored.
@@ -71,3 +73,4 @@ Some more text here...
 
 \end{document}
 ```
+{% endraw %}

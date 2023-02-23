@@ -9,6 +9,8 @@ layout: home
 
 This website isn't quite done yet. For now, you can check out these templates:
 
+<div class="padding"></div>
+
 <div class="template_container">
 {% for image in site.static_files %}
     {% if image.path contains 'templates/preview' %}
@@ -22,4 +24,4 @@ This website isn't quite done yet. For now, you can check out these templates:
 
 <!-- Jekyll is silly and doesn't want me to close the div tag-->
 
-<div class="padding">
+<div class="padding"></div>
