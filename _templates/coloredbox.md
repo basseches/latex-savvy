@@ -33,7 +33,7 @@ permalink: /templates/coloredbox/
 
 % This code was adapted from the documentation for the mdframed package!
 \newcounter{probcount}
-\newenvironment{problem}[1][]{%
+\newenvironment{problem}{%
     % Increment problem counter
     \refstepcounter{probcount}%
     \mdfsetup{%
