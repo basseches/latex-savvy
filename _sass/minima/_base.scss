@@ -112,15 +112,10 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
   }
 
   .social-media-list &:hover {
     text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
   }
 }
 
@@ -296,6 +291,7 @@ pre.highlight {
 {
   width: 365px;
   padding: 1px;
+  margin-bottom: 4px;
   background-color:rgb(236, 236, 236);
 }
 
@@ -303,6 +299,7 @@ pre.highlight {
 {
   width: 241px;
   padding: 1px;
+  margin-bottom: 4px;
   background-color:rgb(236, 236, 236);
 }
 
